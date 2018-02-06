@@ -1,0 +1,4 @@
+weight: 5
+name: "Secure"
+icon: "fa fa-lock"
+description: "Since all computations are done on your device, Geotiff.io is completely secure, sending absolutely none of your information."

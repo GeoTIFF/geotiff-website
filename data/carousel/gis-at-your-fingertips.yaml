@@ -1,0 +1,8 @@
+weight: 2
+title: "GIS at your fingertips"
+description: >
+  <ul class="list-style-none">
+    <li>Easy to use, intuitive user interface</li>
+    <li>Growing suite of raster processing tools</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"

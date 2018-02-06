@@ -1,0 +1,34 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Geotiff.io"
+publishDir = "docs"
+theme = "hugo-universal-theme"
+
+[[params.menu]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[params.menu]]
+  name = "Gallery"
+  url = "/gallery"
+  weight = 2
+
+[[params.menu]]
+  name = "Go to app"
+  url = "http://geotiff.io"
+  weight = 3
+
+[[params.menu]]
+  name = "Questions"
+  url = "http://github.com/geotiff/geotiff.io"
+  weight = 4
+
+[params]
+  style = "turquoise"
+
+[params.features]
+  enable = true
+
+[params.carousel]
+  enable = true
