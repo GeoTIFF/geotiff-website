@@ -4,7 +4,7 @@ description: >
   <h3>Fast, intuitive, open-source raster processing.</h3>
   <h3>All in the browser.</h3>
   <br/>
-  <a href="http://geotiff.io">
+  <a href="http://app.geotiff.io">
     <button class='btn btn-default btn-lg'>Start Mapping</button>
   </a>
 image: "images/carousel/devices.png"
