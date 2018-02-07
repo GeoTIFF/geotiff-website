@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://geotiff.io/"
 languageCode = "en-us"
 title = "GeoTIFF.io"
 publishDir = "docs"
