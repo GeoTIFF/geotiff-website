@@ -1,4 +1,4 @@
 weight: 3
 name: "Offline"
 icon: "fa fa-signal"
-description: "Geotiff.io is written 100% in front-end javascript, meaning it can be used offline, anywhere."
+description: "GeoTIFF.io runs completely in the browser, meaning it can be used offline, anywhere."

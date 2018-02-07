@@ -1,0 +1,9 @@
+weight: 3
+title: "GIS at your fingertips"
+description: >
+  <h3>Explore our growing suite of raster processing tools, powered by Geoblaze</h3>
+  <br/>
+  <a href="http://geotiff.io">
+    <button class='btn btn-default btn-lg'>Start Mapping</button>
+  </a>
+image: "images/carousel/template-easy-code.png"

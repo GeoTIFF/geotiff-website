@@ -1,34 +1,50 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "Geotiff.io"
+title = "GeoTIFF.io"
 publishDir = "docs"
 theme = "hugo-universal-theme"
 
-[[params.menu]]
-  name = "Home"
-  url = "/"
-  weight = 1
+# [menu]
 
-[[params.menu]]
-  name = "Gallery"
-  url = "/gallery"
-  weight = 2
+# # Main menu
 
-[[params.menu]]
-  name = "Go to app"
-  url = "http://geotiff.io"
-  weight = 3
+# [[menu.main]]
+#     name = "Home"
+#     url  = "/"
+#     weight = 1
 
-[[params.menu]]
-  name = "Questions"
-  url = "http://github.com/geotiff/geotiff.io"
-  weight = 4
+# [[menu.main]]
+#     name = "Gallery"
+#     url  = "/gallery/"
+#     weight = 2
+
+# [[params.menu]]
+#   name = "Home"
+#   url = "/"
+#   weight = 1
+
+# [[params.menu]]
+#   name = "Gallery"
+#   url = "/gallery/"
+#   weight = 2
 
 [params]
   style = "turquoise"
+  viewMorePostLink = "/gallery/"
+  logo = "images/logo.png"
 
 [params.features]
   enable = true
 
 [params.carousel]
   enable = true
+
+[params.testimonials]
+  enable = true
+  title = "Examples"
+  subtitle = "Below are examples of GeoTIFF.io in action"
+
+# [params.recent_posts]
+#   enable = true
+#   title = "Examples"
+#   subtitle = "Below are examples of GeoTIFF.io in action:"

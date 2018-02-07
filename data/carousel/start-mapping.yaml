@@ -1,8 +1,10 @@
 weight: 1
-title: "Something profound here"
+title: "GeoTIFF.io"
 description: >
-  <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
-  </ul>
-image: "img/carousel/template-easy-code.png"
+  <h3>Fast, intuitive, open-source raster processing.</h3>
+  <h3>All in the browser.</h3>
+  <br/>
+  <a href="http://geotiff.io">
+    <button class='btn btn-default btn-lg'>Start Mapping</button>
+  </a>
+image: "images/carousel/devices.png"

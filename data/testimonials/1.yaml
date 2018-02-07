@@ -1,0 +1,3 @@
+text: "Calculating Sum of Pasture Land in Europe (data from SEDAC)"
+link: "https://geotiff.io/?tool=sum&url=https://s3.amazonaws.com/geotiff.io/eu_pasture.tif"
+image: "images/examples/pasture-europe.png"
