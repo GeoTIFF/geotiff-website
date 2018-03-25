@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://geotiff.io/categories/</loc>
+    <loc>https://geotiff.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://geotiff.io/</loc>
+    <loc>https://geotiff.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://geotiff.io/tags/</loc>
+    <loc>https://geotiff.io/tags/</loc>
     <priority>0</priority>
   </url>
   
