@@ -1,3 +1,3 @@
 text: "Annual Winter Cropped Area in India (data from SEDAC)"
-link: "http://app.geotiff.io/?url=data/PuertoRicoTropicalFruit.tiff&tool=sum"
+link: "http://app.geotiff.io/?url=https://s3.amazonaws.com/geotiff.io/PuertoRicoTropicalFruit.tiff&tool=sum"
 image: "images/examples/india.png"
